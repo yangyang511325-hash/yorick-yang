@@ -3,6 +3,15 @@
   "image": "",
   "posts": [
     {
+      "id": "213e1f03-6338-4ffd-add0-0df656d26272",
+      "kind": "资料",
+      "subcategory": "关联",
+      "title": "我把我自己\"开源”了",
+      "body": "GitHub仓库地址：https://github.com/yangyang511325-hash/yorick-yang",
+      "publishedAt": "2026-11-28T15:40",
+      "date": "2026-11-28"
+    },
+    {
       "id": "d129ac15-410f-43a9-8422-c237acd9fcc7",
       "kind": "杂感",
       "subcategory": "独白",
